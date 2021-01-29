@@ -1,3 +1,6 @@
+# webiste url
+[netflix-clone](https://netflix-clone-2e5e9.web.app/)
+
 # Netflix Clone
 
 ![image](https://user-images.githubusercontent.com/53989824/94804006-c5845b80-0407-11eb-953f-8a81abb171ae.png)
